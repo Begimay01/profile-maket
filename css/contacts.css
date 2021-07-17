@@ -1,0 +1,89 @@
+.contacts {
+    background: #EEEFF1;
+    padding: 100px 0;
+}
+.contacts-description {
+    color: #727272;
+    font-size: 16px;
+    line-height: 26.25px;
+    margin-top: 50px;
+
+}
+.contacts-title {
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+
+}
+.want {
+    font-weight: 550;
+}
+.name {
+    height: 50px;
+    width: 255px;
+    border: none;
+    color: #5F5D5D;
+    padding-top: 17px;
+    padding-left: 20px;
+    padding-bottom: 18px;
+
+
+
+}
+.e-mail {
+    height: 50px;
+    width: 255px;
+    border: none;
+    color: #5F5D5D;
+    padding-top: 17px;
+    padding-bottom: 18px;
+
+    padding-left: 20px;
+
+}
+.message {
+    height: 175px;
+    border: none;
+    width: 540px;
+    color: #5F5D5D;
+    padding-top: 17px;
+    padding-left: 20px;
+    padding-bottom: 143px;
+
+}
+.insert {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 65px;
+}
+.yourName {
+    margin-right: 30px;
+}
+.yourMessage {
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+.send {
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.send-btn {
+    background: #34547A;
+    color: white;
+    width: 190px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px 19px;
+    letter-spacing: 4px;
+    height:55px;
+}
+
+

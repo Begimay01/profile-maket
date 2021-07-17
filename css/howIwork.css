@@ -1,0 +1,37 @@
+.howIwork {
+   background: #EEEFF1;
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+   padding: 100px 0;
+}
+.work {
+    max-width: 540px;
+    margin: auto;
+}
+.work-title {
+    height: 30px;
+    font-size: 32px;
+    color: #000000;
+    font-weight: 550;
+}
+.work-description {
+    font-size: 16px;
+    color: #727272;
+    line-height: 26px;
+    margin-top: 50px;
+    margin-bottom: 57px;
+}
+
+.img1 {
+    width: 1100px;
+    height: 600px;
+
+}
+.relative {
+    position: relative;
+}
+.absolute {
+    position: absolute;
+    top: 30%;
+    left: 48%;
+}

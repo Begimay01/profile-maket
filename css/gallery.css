@@ -1,0 +1,36 @@
+.img-microsoft{
+    width: 255px;
+    height: 120px;
+
+}
+.Microsoft{
+    padding: 72px 0;
+    display: flex;
+    justify-content: center;
+}
+.gallery-list {
+    padding-top: 28px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img-laptop{
+    position: relative;
+    background-color: rgba(52, 84, 122, 0.8);
+}
+
+.img-eyes {
+    position: absolute;
+    bottom: 199px;
+    right: 175px;
+
+}
+.aiming {
+    position: relative;
+    width: 480px;
+    height: 480px;
+}
+.img-glider {
+    width: 480px;
+    height: 480px;
+}

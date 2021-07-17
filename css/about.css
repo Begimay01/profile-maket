@@ -1,0 +1,21 @@
+.about {
+    max-width: 540px; /*для отступа типл мардин*/
+    margin: auto;
+    padding: 100px 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.about-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    
+}
+
+.about-description {
+    margin-top: 50px;
+    font-size: 16px;
+    color: #727272;
+    line-height: 26px;
+    text-align: center;
+}

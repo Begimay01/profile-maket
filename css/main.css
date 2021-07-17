@@ -1,0 +1,99 @@
+.main {
+    background: #EEEFF1;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.title{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 60px;
+    max-width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.contact {
+    color: #000000;
+}
+.logo-wd {
+    color: #34547A;
+    font-family: 'Revalia', cursive;
+    font-size: 48px;
+}
+.headline {
+    font-size: 16px;
+    margin-left: 398px;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+}
+.primary {
+    margin-right: 42px;
+    color: #34547A;
+
+}
+.about-author{
+    color: #000000;
+
+    margin-right: 42px;
+}
+.works{      
+     color: #000000;
+
+     margin-right: 42px;
+}
+.process{
+    color: #000000;
+
+    margin-right: 42px;
+}
+.author{
+    color: #000000;
+}
+
+.img-body {
+    margin-top: 161px;
+    margin-left: 87px;
+    width: 357px;
+    height: 233.7px;
+}
+
+.design {
+    color:#000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight:550;
+    font-size: 48px;
+
+}
+.design-description {
+    margin-top: 60px;
+    line-height: 26.25px;
+    max-width: 520px;
+    color: #727272;
+    font-size: 16px;
+}
+.body {
+    display: flex;
+    width: 1150px;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+.design-text {
+    margin-top: 140px;
+    margin-left: 167.2px;
+}
+.button {
+    margin-top: 60px;
+    margin-bottom: 146px;
+}
+.btn-write-me {
+    padding: 25px 41px;
+    background:#34547A; 
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+
+}
